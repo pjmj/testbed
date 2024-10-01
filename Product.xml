@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product>
+  <Component Location="Components [SourceControl]" Root="False">
+    <Name>Common-AddOns-PassportAgent</Name>
+    <Version>04.03.00.05</Version>
+  </Component>
+  <Component Location="Components [SVN]" Root="False">
+    <Name>Activate-ICUSN-Vidyo-ClientUpgrade</Name>
+    <Version>06.09.27.00</Version>
+  </Component>
+  <Component Location="Aggregates [SharedDrive]" Root="False">
+    <Name>Americas Unified Agent SNMP</Name>
+    <Version>03.02.00</Version>
+  </Component>
+  <Component Location="Components [SVN]" Root="False">
+    <Name>Common-AddOns-UASNMP-Config</Name>
+    <Version>12.00.00</Version>
+  </Component>
+  <Component Location="Components [SVN]" Root="False">
+    <Name>Activate-Common-ITEL-AdobeEOLMitigationUtility</Name>
+    <Version>01.00.00</Version>
+  </Component>
+  <Component Location="Components [SharedDrive]" Root="False">
+    <Name>ITM-Hotfix-SY1109</Name>
+    <Version>01.00.00</Version>
+  </Component>
+  <Component Location="Components [SVN]" Root="False">
+    <Name>Activate-Common-ITEL-AdobeEOLHotfix</Name>
+    <Version>01.00.00</Version>
+  </Component>
+  <Component Location="Components [SVN]" Root="False">
+    <Name>Activate-Common-ITEL-Hotfix-SY1183</Name>
+    <Version>01.00.00</Version>
+  </Component>
+  <Component Location="Components [SVN]" Root="False">
+    <Name>Activate-Common-ITEL-Hotfix-SY1208</Name>
+    <Version>01.00.00</Version>
+  </Component>
+  <Component Location="Components [SVN]" Root="False">
+    <Name>ICUSN-AudioConfig</Name>
+    <Version>01.00.00</Version>
+  </Component>
+  <Component Location="Components [SVN]" Root="False">
+    <Name>Activate-Common-ITEL-Hotfix-SY1271</Name>
+    <Version>01.00.00</Version>
+  </Component>
+  <Component Location="Components [SourceControl]" Root="False">
+    <Name>ICUSN-Hotfix-IP10630</Name>
+    <Version>02.00.01.57.122</Version>
+  </Component>
+</Product>
